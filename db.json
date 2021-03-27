@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Silla",
+      "descripcion": "Silla de madera",
+      "categoria": "2",
+      "stock": "34",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 2,
+      "nombre": "Alfombra",
+      "descripcion": "Alfombra de tela",
+      "categoria": "2",
+      "stock": "5",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 3,
+      "nombre": "Computadora",
+      "descripcion": "i5 16GB RAM",
+      "categoria": "3",
+      "stock": "34",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 4,
+      "nombre": "Sofa",
+      "descripcion": "tela",
+      "categoria": "2",
+      "stock": "34",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 5,
+      "nombre": "Audifonos",
+      "descripcion": "Cancelacion de Ruido",
+      "categoria": "3",
+      "stock": "66",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 6,
+      "nombre": "Playstation 5",
+      "descripcion": "Consola de video juegos",
+      "categoria": "4",
+      "stock": "25",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 7,
+      "nombre": "Xbox",
+      "descripcion": "Consola de videoJuegos",
+      "categoria": "4",
+      "stock": "77",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 8,
+      "nombre": "Switch",
+      "descripcion": "Nintendo Switch",
+      "categoria": "4",
+      "stock": "34",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 9,
+      "nombre": "Toyota",
+      "descripcion": "Carro comercial",
+      "categoria": "5",
+      "stock": "33",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 10,
+      "nombre": "Mercedes",
+      "descripcion": "Carro Comercial",
+      "categoria": "5",
+      "stock": "10",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 2,
+      "nombre": "Muebles",
+      "descripcion": "Muebles de casa",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 3,
+      "nombre": "Electronicos",
+      "descripcion": "Productos electronicos del hogar",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 4,
+      "nombre": "Consolas",
+      "descripcion": "Consolas de Videojuegos",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    },
+    {
+      "id": 5,
+      "nombre": "Carros",
+      "descripcion": "Carros comerciales",
+      "fecha_creacion": "3/27/2021",
+      "estado": "true"
+    }
+  ]
+}
